@@ -1,2 +1,4 @@
-# quera-solution
-solution for quera problems
+# quera-solution - جواب سوالات کوئرا
+سوالات جواب داده شده:
+
+# کودوکو
